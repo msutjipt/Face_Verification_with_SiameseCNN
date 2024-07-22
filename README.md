@@ -1,4 +1,4 @@
-# Data Analytics 2 - Case Study Group 02
+# Data Analytics 2 - Face Verification Case Study 
 
 ## 1. Background and Task Description
 This project is based on a case study as part of the course Data Analytics 2 in the Master of Information Systems at the 
@@ -14,7 +14,7 @@ synthetic generated images, which are described in more detail in this paper: ht
 
 ## 3. Architecture 
 Our architecture consists of ~109.000 trainable Parameters. An overview about the individual layers can be found below:
-![Siamese Convolutional Neural Network](./src/Siamese Neural Network.png)
+![Siamese Convolutional Neural Network](Siamese_Neural_Network.png)
 
 ## 4. Folder Structure
 ```
