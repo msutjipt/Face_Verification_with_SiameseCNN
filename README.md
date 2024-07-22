@@ -74,7 +74,7 @@ three subfolder with statistics for the architecture, the training process and t
 
 ## 5. Pre-Requisites 
 You need an IDE for running Python code and a Google Colab account. Apart from that all libraries mentioned in the
-requirements.txt file need to be installed. You can do this by typing the following command into you cli.
+requirements.txt file need to be installed. You can do this by typing the following command into your command line.
 ```
 pip install -r requirements.txt 
 ```
