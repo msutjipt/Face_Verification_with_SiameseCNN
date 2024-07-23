@@ -14,7 +14,7 @@ synthetic generated images, which are described in more detail in this paper: ht
 
 ## 3. Architecture 
 Our architecture consists of ~109.000 trainable Parameters. An overview about the individual layers can be found below:
-![Siamese Convolutional Neural Network](Siamese_Neural_Network.png)
+![Siamese Convolutional Neural Network](./src/statistics/1_Architecture/Siamese_Neural_Network.png)
 
 ## 4. Folder Structure
 ```
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 All needed libraries except of pytorch_metric_learning are installed by default on Google Colab. As a Python version Python 3.12 was used.
 
 ## 6. Poster 
-![Poster_GROUP02](POSTER_DA2_GROUP02.jpg)
+![Poster_GROUP02](./src/statistics/POSTER_DA2_GROUP02.jpg)
 
 ## 7. Contributors 
 - Dimitrij Eli 
